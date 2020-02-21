@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">photosharingxjq</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="search_hint">Search All Products…</string>
+    <string name="whats_new">What\'s New</string>
+    <string name="about_us">About Us</string>
+    <string name="about_us_dialog">Ecom.me is your one-stop shop to browsing a variety of Apple products. We show not
+        only the usual consumer products like phones, computers, tablets, and accessories, but we also show you parts
+        from the Mac makers themselves in case you end up finding yourself in a situation where you need to attempt a
+        repair to a device yourself. Happy browsing!
+    </string>
+    <string name="close">Close</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="privacy_policy_dialog">Our policy is that we will keep all of your information confidential because we
+        really don\'t give a crap about your information anyway.
+    </string>
+    <string name="product_image_desc">product image</string>
+    <string name="home">Home</string>
+    <string name="search_for">Search for:</string>
+    <string name="no_connection">No Connection</string>
+    <string name="no_pricing">No price listed.</string>
+    <string name="fav">fav</string>
+    <string name="favorites">Favorites</string>
+    <string name="manufacturer">Manufacturer:</string>
+    <string name="brand">Brand:</string>
+    <string name="model">Model:</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="increment">+</string>
+    <string name="decrement">-</string>
+    <string name="one">1</string>
+    <string name="dimensions_label">Dimensions:</string>
+    <string name="weight_label">Weight:</string>
+    <string name="length_label">Length:</string>
+    <string name="width_label">Width:</string>
+    <string name="height_label">Height:</string>
+    <string name="features">Features:</string>
+    <string name="product_detail">Product Detail</string>
+    <string name="add_to_favorites">Add To Favorites</string>
+    <string name="create_account">Create Account</string>
+    <string name="sign_in">Sign In</string>
+    <string name="account">Account</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="account_picture">Account Picture</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="my_reviews">My Reviewed Items</string>
+    <string name="cancel">Cancel</string>
+    <string name="submit">Submit</string>
+    <string name="add_review_here">Add review here…</string>
+    <string name="add_review">Add Review</string>
+    <string name="anonymous">Anonymous</string>
+    <string name="reviews">Reviews</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

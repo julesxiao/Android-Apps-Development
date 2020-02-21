@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "624122991667",
+    "firebase_url": "https://cse438-project3-haiyu-wan-jieq.firebaseio.com",
+    "project_id": "cse438-project3-haiyu-wan-jieq",
+    "storage_bucket": "cse438-project3-haiyu-wan-jieq.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624122991667:android:79fe6ae0561209d4",
+        "android_client_info": {
+          "package_name": "com.example.cse438.blackjack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624122991667-7cn7l7ubq3eoo1s7j1bke83g33u76f0h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cse438.blackjack",
+            "certificate_hash": "5d2e653ec38937c8a301606ac7ca37e27d22e67b"
+          }
+        },
+        {
+          "client_id": "624122991667-5ppaetut5lr2548fk9m27j72gh07nv7n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cse438.blackjack",
+            "certificate_hash": "d07d3146e0b7f8e4c991b3536c4e01330947df73"
+          }
+        },
+        {
+          "client_id": "624122991667-q9qec5qj65hgjv9hhu8g9teotml9p4sg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlZAqC4rKtaiM710ljIdrBs_mP8IsB_I0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624122991667-q9qec5qj65hgjv9hhu8g9teotml9p4sg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

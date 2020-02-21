@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "235337079921",
+    "firebase_url": "https://cse438-finalproject-hanxiaowan.firebaseio.com",
+    "project_id": "cse438-finalproject-hanxiaowan",
+    "storage_bucket": "cse438-finalproject-hanxiaowan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235337079921:android:13c3c6a65bcbec53",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235337079921-06b3u0e4js381lnd3i01ksr2ujdsuh89.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "d07d3146e0b7f8e4c991b3536c4e01330947df73"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe74WaXFztmxk4cA7XWLipgXmDjsSxtMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235337079921-lr5tbmtn6mk6lbmjvdssgckki6tvpe2t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
