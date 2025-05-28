@@ -1,8 +1,3 @@
-CSE 438 Final Project: Kanban
-Jieqiong Xiao 465180
-Haiyu Wan 458812
-Jin Han 467207
-
 Project Description
 -------------------
 Designed with SIMPLICITY and USABILITY, Kanban is a mobile application that helps you manage tasks in a mobile way.
